@@ -39,13 +39,6 @@ Pre-assembled WS2812B LED matrix + custom PCB motherboard = beautiful, functiona
 **Buzzer + Transistor** - Alarm sound amplifier
 **Capacitors** - Power stability for LED current surges
 
-## ⚡ Why ESP32-C3?
-
-✅ **WiFi** - Automatic NTP time sync from internet
-✅ **Bluetooth** - Future expansion possibilities  
-✅ **More memory** - 400KB RAM for smooth LED animations
-✅ **Lower cost** - Generally cheaper than RP2040 boards
-
 ## 🛠️ Action Plan
 
 1. **Pin Assignment** - Map XIAO pins to functions
